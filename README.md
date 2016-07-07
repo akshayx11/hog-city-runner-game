@@ -1,0 +1,2 @@
+# hog-city-runner-game
+Run through Hog city with your police van and gun.  Be faster than others and cover long distance to make the highest score in the Hog City. You can use the gun to blast the other cars and tanks. Hold the screen to move the van right or left. Double tap on your van to fire the missile . Every missile will reduce the life so use it when really needed. 1. Run through Hog City with your police van. 2. Fire the missile to blast the other cars and tanks. 3. Cover long distance to make the highest score. 4. Tanks are invincible so be safe from them.
