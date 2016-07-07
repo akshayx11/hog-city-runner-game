@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.funspellz.com"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Hog City Runner</name>
+
+  <description>
+     Run through Hog city with your police van and gun.
+  </description>
+
+  <author href="https://www.funspellz.com" email="contact@funspellz.com">
+      FUnspellz (Akshay Kumar Gupta)
+  </author>
+ <icon src="icon.png" />
+
+</widget>
