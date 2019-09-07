@@ -1,2 +1,37 @@
-# hog-city-runner-game
-Run through Hog city with your police van and gun.  Be faster than others and cover long distance to make the highest score in the Hog City. You can use the gun to blast the other cars and tanks. Hold the screen to move the van right or left. Double tap on your van to fire the missile . Every missile will reduce the life so use it when really needed. 1. Run through Hog City with your police van. 2. Fire the missile to blast the other cars and tanks. 3. Cover long distance to make the highest score. 4. Tanks are invincible so be safe from them.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/akshayx11/hog-city-runner-game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshayx11/hog-city-runner-game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
